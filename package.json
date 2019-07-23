@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "0.0.1",
+  "description": "a guide to nodejs programming",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apurvxx11/NodeJSguide"
+  },
+  "author": "theapurvverma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
